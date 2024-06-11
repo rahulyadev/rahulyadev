@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahulyadev&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me:    
 I am a passionate software engineer with a knack for backend technologies and a good knowledge of frontend technologies. I thrive on solving real-world software problems and exploring the system designs used to tackle complex issues. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
