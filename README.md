@@ -22,14 +22,12 @@ Algorithms [LeetCode](https://leetcode.com/u/parryrpy/)
 |----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="55" height="55"/>|
 
-  
 
 ### Best frameworks and main libraries for Python3:
 
 | Django | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV | ReportLab |
 |----------|----------|----------|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://s3.eu-west-2.amazonaws.com/files.opentrack.run/reportlab/reportlab-logo-white.svg" title="ReportLab" alt="ReportLab" width="55" height="55"/>|
-
 
 
 ### Best frameworks and main libraries for JavaScript:
@@ -44,8 +42,6 @@ Algorithms [LeetCode](https://leetcode.com/u/parryrpy/)
 | MySQL | Postgres | SQLite | MongoDB |
 |----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|
-
-
 
   
 ### Environments, Testing, Other:
@@ -63,20 +59,15 @@ Algorithms [LeetCode](https://leetcode.com/u/parryrpy/)
 
 </div>
 
----
-
+## Github Stats:
 <p align="center">
   <img width="820" height="220" src="https://streak-stats.demolab.com?user=rahulyadev&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
-
----
 
 <p align="center">
   <img width="466" height="200" src="https://github-readme-stats.vercel.app/api?username=rahulyadev&show_icons=true&theme=vision-friendly-dark">
   <img width="354" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulyadev&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
- 
-
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulyadev&style=for-the-badge&color=orange" alt=""/>
