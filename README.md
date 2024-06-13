@@ -5,7 +5,7 @@ I am a passionate software engineer with a knack for backend technologies and a 
 
 I have strong knowledge and experience with Python and Django, and good knowledge of JavaScript and VueJS. Currently, I am learning Go and related backend technologies. During my leisure time, you’ll find me honing my problem-solving skills on LeetCode and reading system design blogs.
 
-Algorithms [LeetCode](https://leetcode.com/u/parryrpy/)
+Algorithms: [LeetCode](https://leetcode.com/u/parryrpy/)
 
 ## Working on: 🚀
 
